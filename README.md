@@ -13,7 +13,7 @@ This is a brief introduction for beginners to Protractor using Jasmine framework
 
 # Getting Started
 
-The step by step installation guide is availbale on the [Protractor's website]
+The step by step installation guide is availbale on the **[protractor's website]**
 (http://www.protractortest.org/#/)
 
 # Basic Features 
