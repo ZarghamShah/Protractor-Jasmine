@@ -1,9 +1,9 @@
 {
-    "firstName": "Zargham",
-    "lastName": "Ahmad",
-    "userName": "zargham",
-    "password": "password",
+    "firstName": "John",
+    "lastName": "Smith",
+    "userName": "John",
+    "password": "password@12345",
     "email": "abc@xyz.com",
     "cellNumber": "0123456789",
-    "editFirstName": "Zargham Ahmad"
+    "editFirstName": "Jason"
 }
