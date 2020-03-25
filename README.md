@@ -17,6 +17,7 @@ The step by step installation guide is availbale on the **Protractor's website**
 http://www.protractortest.org/#/ 
 
 # Basic Features 
+- Gettoimg basic knowledge pf protratcor
 - Getting a basic understanding of POM
 - Getting a basic understanding of data provider
  
