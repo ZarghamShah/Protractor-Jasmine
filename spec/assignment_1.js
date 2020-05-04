@@ -4,7 +4,7 @@ describe('This is assignment # 1',  function () {
     browser.get(current_url);
     //browser.pause(5000)
     var x = browser.getCurrentUrl()
-        expect(x).toBe(current_url);
+        expect(y).toBe(current_url);
     console.info('URLs have matched and test executed successfully')
      });
    });
